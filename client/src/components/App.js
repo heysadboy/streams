@@ -7,12 +7,10 @@ import StreamList from './streams/StreamList';
 import StreamShow from './streams/StreamShow';
 import Header from './Header';
 
-// 284786371926-5cufqda65l03tvk1sciq2o0abgsurt7n.apps.googleusercontent.com
 
 const App = () => {
     return (
         <div className="ui container">
-
             <BrowserRouter>
                 <div>
                     <Header />
